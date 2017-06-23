@@ -1,0 +1,20 @@
+{
+  "name": "extendable-error",
+  "version": "1.0.0",
+  "description": "An extendable error class for custom JavaScript error subclassing.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zupper/extendable-error"
+  },
+  "keywords": [
+    "javascript",
+    "error",
+    "extendable-error"
+  ],
+  "author": "Dimitar Pavlov <dimitar@shadez.info>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zupper/extendable-error/issues"
+  }
+}
